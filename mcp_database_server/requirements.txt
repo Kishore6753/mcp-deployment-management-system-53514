@@ -10,3 +10,6 @@ asyncpg==0.30.0
 
 # Env loading for local runs (optional but helpful)
 python-dotenv==1.1.0
+
+# JSON Schema validation for tool inputs
+jsonschema==4.23.0
