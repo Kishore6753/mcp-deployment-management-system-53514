@@ -1,0 +1,12 @@
+# Core MCP SDK for Python (STDIO server)
+mcp==1.12.4
+
+# Validation / settings
+pydantic==2.10.6
+pydantic-settings==2.7.1
+
+# PostgreSQL driver (async)
+asyncpg==0.30.0
+
+# Env loading for local runs (optional but helpful)
+python-dotenv==1.1.0
